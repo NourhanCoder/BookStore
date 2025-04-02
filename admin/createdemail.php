@@ -8,5 +8,5 @@
 // $stmt = $conn->prepare("INSERT INTO admins (name, email, password) VALUES (?, ?, ?)");
 // $stmt->execute([$name, $email, $password]);
 
-// echo "✅ تم إنشاء حساب الأدمن بنجاح!";
+// echo " تم إنشاء حساب الأدمن بنجاح!";
 ?>
